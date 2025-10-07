@@ -1,0 +1,17 @@
+folio:
+    url_orga: https://okapi.gbv.de/organizations/organizations
+    url_sas: https://okapi.gbv.de/erm/sas
+    url_login: https://okapi.gbv.de/authn/login
+    url_erm_refdata: https://okapi.gbv.de/erm/refdata
+    mandant: ##
+    user: ##
+    password: ##
+lbs:
+    driver: Adaptive Server Enterprise
+    server: ##
+    port: ##
+    database: lbsdb
+    user: ##
+    password: ##
+
+
